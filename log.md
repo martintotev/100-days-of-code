@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 01: November 19, 2017
-##### (delete me or comment me out)
+<!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Tried fixing my "Free UI Kit" page for my "Seoul Bike" UX case study. Read it here: https://medium.freecodecamp.org/seoul-bike-case-study-6ac4172f7188
 
@@ -9,3 +9,11 @@
 
 **Link to work:** Not officially published yet.
 
+### Day 02: November 23, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Went on fixing my "Free UI Kit" page for my "Seoul Bike" UX case study but had to learn more before I can properly fix it.
+
+**Thoughts:** Foundations is the element I am missing. Also day job is not helping me with learning...
+
+**Link to work:** Not officially published yet.
