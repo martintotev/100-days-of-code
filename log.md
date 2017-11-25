@@ -17,3 +17,11 @@
 **Thoughts:** Foundations is the element I am missing. Also day job is not helping me with learning...
 
 **Link to work:** Not officially published yet.
+
+### Day 03: November 25, 2017
+
+**Today's Progress**: Went on completing my "Free UI Kit" page for my "Seoul Bike" UX case study but by doing a 7 hour study to compensating for the days I had to miss...
+
+**Thoughts:** More practice with the basics of HTML and CSS before I move to some more advanced languages like jQuery and JS.
+
+**Link to work:** https://martintotev.github.io/uikit.html

@@ -9,3 +9,6 @@ Tried fixing my "Free UI Kit" page for my "Seoul Bike" UX case study. Read it he
 
 ### R1D2
 Went on fixing my "Free UI Kit" page for my "Seoul Bike" UX case study but had to learn more before I can properly fix it.
+
+### R1D3
+Done with recoding my Free UI Kit page from scratch. https://martintotev.github.io/uikit.html
