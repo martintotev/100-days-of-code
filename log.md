@@ -25,3 +25,9 @@
 **Thoughts:** More practice with the basics of HTML and CSS before I move to some more advanced languages like jQuery and JS.
 
 **Link to work:** https://martintotev.github.io/uikit.html
+
+### Day 04: November 26, 2017
+
+**Today's Progress**: Continued with redoing freeCodeCamp from scratch. Finished the <form>, .class and #id and went on to basic CSS like margin and padding.
+
+**Thoughts:** Practice and repetition is essential

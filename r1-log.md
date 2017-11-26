@@ -12,3 +12,6 @@ Went on fixing my "Free UI Kit" page for my "Seoul Bike" UX case study but had t
 
 ### R1D3
 Done with recoding my Free UI Kit page from scratch. https://martintotev.github.io/uikit.html
+
+### R1D4
+Continued with redoing freeCodeCamp from scratch. Finished the <form>, .class and #id and went on to basic CSS like margin and padding.
