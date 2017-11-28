@@ -31,3 +31,9 @@
 **Today's Progress**: Continued with redoing freeCodeCamp from scratch. Finished the <form>, .class and #id and went on to basic CSS like margin and padding.
 
 **Thoughts:** Practice and repetition is essential
+
+### Day 05: November 28, 2017
+
+**Today's Progress**: Continued with redoing freeCodeCamp until the Responsive Design with Bootstrap chapter. Need to concentrate on Bootstrap and eventually CSS Grid.
+
+**Thoughts:** Have a better understanding of hex colour and RGB values now, which will be extremely helpful at work.

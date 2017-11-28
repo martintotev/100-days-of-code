@@ -15,3 +15,6 @@ Done with recoding my Free UI Kit page from scratch. https://martintotev.github.
 
 ### R1D4
 Continued with redoing freeCodeCamp from scratch. Finished the <form>, .class and #id and went on to basic CSS like margin and padding.
+
+### R1D5
+Continued with redoing freeCodeCamp until the Responsive Design with Bootstrap chapter. Need to concentrate on Bootstrap and eventually CSS Grid.
