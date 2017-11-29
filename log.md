@@ -37,3 +37,9 @@
 **Today's Progress**: Continued with redoing freeCodeCamp until the Responsive Design with Bootstrap chapter. Need to concentrate on Bootstrap and eventually CSS Grid.
 
 **Thoughts:** Have a better understanding of hex colour and RGB values now, which will be extremely helpful at work.
+
+### Day 06: November 29, 2017
+
+**Today's Progress**: Still with redoing reeCodeCamps Bootstrap chapter.
+
+**Thoughts:** Bootstrap will be something I will use a lot in the future so I need to really concentrate on it.

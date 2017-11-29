@@ -18,3 +18,6 @@ Continued with redoing freeCodeCamp from scratch. Finished the <form>, .class an
 
 ### R1D5
 Continued with redoing freeCodeCamp until the Responsive Design with Bootstrap chapter. Need to concentrate on Bootstrap and eventually CSS Grid.
+
+### R1D6
+Still with redoing reeCodeCamps Bootstrap chapter. Bootstrap will be something I will use a lot in the future so I need to really concentrate on it.
