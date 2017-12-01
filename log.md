@@ -43,3 +43,9 @@
 **Today's Progress**: Still with redoing reeCodeCamps Bootstrap chapter.
 
 **Thoughts:** Bootstrap will be something I will use a lot in the future so I need to really concentrate on it.
+
+### Day 07: November 30, 2017
+
+**Today's Progress**: Still redoing reeCodeCamps Bootstrap chapter.
+
+**Thoughts:** Bootstrap is quite complicated, but efficient.
