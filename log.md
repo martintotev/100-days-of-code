@@ -49,3 +49,9 @@
 **Today's Progress**: Still redoing reeCodeCamps Bootstrap chapter.
 
 **Thoughts:** Bootstrap is quite complicated, but efficient.
+
+### Day 08: December 01, 2017
+
+**Today's Progress**: Redoing freeCodeCamps. Finished with Bootstrap and about to startjQueary.
+
+**Thoughts:** now I need to really concentrate on this.
