@@ -55,3 +55,15 @@
 **Today's Progress**: Redoing freeCodeCamps. Finished with Bootstrap and about to startjQueary.
 
 **Thoughts:** now I need to really concentrate on this.
+
+### Day 09: December 02, 2017
+
+**Today's Progress**: Had a problem with a part of my Free UI Kit page and tried to understand where and what the problem was.
+
+**Thoughts:** I need a looot of practice.
+
+### Day 10: December 03, 2017
+
+**Today's Progress**: The problem with my Free UI Kit page is fixed and I was quite tired to comprehend how did I fix it.
+
+**Thoughts:** Find out how I fixed the damn thing...
