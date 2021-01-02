@@ -3,7 +3,7 @@
 ### Day 01: 1st of January 2021
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Added a javascript to personalise the introduction message based on the time the browser is in and linked back the UI Kit page.
+**Today's Progress**: Added a javascript to personalise the introduction message based on the time the browser is in and linked back the UI Kit page. I will have to fix some other minor issues and add a few photos.
 
 **Thoughts:** I need to learn javascript as fast as possible because it was fun to find where the problem was with my script. I am a person with extremely minimal knowledge of js and it was challenging
 
